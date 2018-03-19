@@ -1,8 +1,9 @@
 /*!
     Title: Dev Portfolio Template
     Version: 1.2.1
-    Last Change: 08/27/2017
+    Last Change: 03/19/2018
     Author: Ryan Fitzgerald
+            Prince Moses
     Repo: https://github.com/RyanFitzgerald/devportfolio-template
     Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
 
